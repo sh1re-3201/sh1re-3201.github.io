@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea78485e-64ab-4716-9f33-fc3e3e6138fd" name="Changes" comment="Original Commit&#10;&#10;Feat: Added index.html" />
+    <list default="true" id="ea78485e-64ab-4716-9f33-fc3e3e6138fd" name="Changes" comment="Original Commit&#10;&#10;Feat: Added index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,7 @@
       <module name="sh1re-3201.github.io" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
-      <kind />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
@@ -63,7 +65,7 @@
       <module name="sh1re-3201.github.io" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
-      <kind />
+      <kind value="DIRECTORY" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
@@ -147,6 +149,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733924772833</updated>
       <workItem from="1733924773986" duration="1183000" />
+      <workItem from="1733928158788" duration="88000" />
+      <workItem from="1733928251639" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Original Commit&#10;&#10;Feat: Added index.html">
       <option name="closed" value="true" />
@@ -164,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733924937971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Original Commit&#10;&#10;Feat: Added index.html">
+      <option name="closed" value="true" />
+      <created>1733928177395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733928177395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
