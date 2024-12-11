@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea78485e-64ab-4716-9f33-fc3e3e6138fd" name="Changes" comment="Original Commit&#10;&#10;Feat: Added index.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea78485e-64ab-4716-9f33-fc3e3e6138fd" name="Changes" comment="Original Commit&#10;&#10;Feat: Added index.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +49,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="O:\Kuliah\GithubWebsite\sh1re-3201.github.io" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="sh1re-3201.github.io" />
@@ -151,6 +154,7 @@
       <workItem from="1733924773986" duration="1183000" />
       <workItem from="1733928158788" duration="88000" />
       <workItem from="1733928251639" duration="13000" />
+      <workItem from="1733928271136" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="Original Commit&#10;&#10;Feat: Added index.html">
       <option name="closed" value="true" />
@@ -176,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733928177395</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Original Commit&#10;&#10;Feat: Added index.html">
+      <option name="closed" value="true" />
+      <created>1733928343337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733928343337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
