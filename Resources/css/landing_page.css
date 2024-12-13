@@ -20,7 +20,7 @@ body {
 }
 
 h1 { 
-    font-size: 3rem;
+    font-size: 3xrem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 }
 
@@ -29,7 +29,7 @@ h1 {
     position: absolute;
     padding: 20px;
     margin-top: 60px;
-    background: rgba(0, 0, 0, 0.8); /* Semi-transparent dark background */
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent dark background */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     text-align: center;
@@ -40,8 +40,11 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: flex;
     overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
 }
 
 .button-container::before {
@@ -72,10 +75,10 @@ h1 {
 }
 
 .button:hover {
-    background-color: white;
+    background-color: blanchedalmond;
     color: black;
     border-color: black;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 10px rgba(255, 235, 205, 0.6);
 }
 
 .button + .button {
