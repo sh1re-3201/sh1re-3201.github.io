@@ -15,7 +15,8 @@ body {
     justify-content: flex-start;
     color: wheat;
     /* Gradient background */
-    background: linear-gradient(135deg, darkblue, #8b0074, purple);
+    /* background: linear-gradient(135deg, darkblue, #8b0074, purple); */
+    background-color: antiquewhite;
     background-size: 400% 400%;
     animation: gradientAnimation 8s ease infinite;
 }
